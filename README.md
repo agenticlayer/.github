@@ -1,2 +1,2 @@
 # .github
-Siehe https://github.com/agentic-layer
+Siehe https://www.github.com/agentic-layer
