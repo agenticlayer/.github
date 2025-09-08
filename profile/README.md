@@ -1,1 +1,1 @@
-See github.com/agentic-layer
+You meant [github.com/agentic-layer](https://github.com/agentic-layer)
